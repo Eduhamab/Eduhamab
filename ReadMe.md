@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou o Edu, comecei a pouco tempo nesse mundo da  programação estou no ultimo semestre<br>da minha faculade de Analise e Desenvolvimentos de Sistemas e estudo programação<br>pela plataforma da Rocketseat. <br><br>Estou a proucura de um estagio. <br>
+Hey, aqui é o Edu, sou formado em Analise e Desenvolvimento de Sitemas, sou facinado em aprender e encarar novos desafios, 
 
 
 ## 🌐 Socials:
